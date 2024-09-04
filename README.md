@@ -23,4 +23,5 @@ document.body.addEventListener('htmx:afterOnLoad', () => {
 ```
 
 # Team Members
+- Petro Petrenko
 - Vyacheslav Koldovskyy
